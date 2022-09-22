@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class ProjetoDePesquisa {
 
     ArrayList<ProjetoDePesquisa> projetos;
-
+    ArrayList<Pesquisador> pesquisadores;
     //metodo para fazer a inserção do pesquisador
     public void inserirPesquisador(){
 
